@@ -14,7 +14,7 @@ on:
        
 jobs:
   build:
-    runs-on: alpine
+    runs-on: alpine-latest
     
     steps:
     - name: Clone Repository
