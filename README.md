@@ -1,3 +1,5 @@
+[![Docker Image CI](https://github.com/f1d094/insteon-mqtt/actions/workflows/docker-image.yml/badge.svg)](https://github.com/f1d094/insteon-mqtt/actions/workflows/docker-image.yml)
+[![codeql](https://github.com/f1d094/insteon-mqtt/actions/workflows/codeql.yml/badge.svg)](https://github.com/f1d094/insteon-mqtt/actions/workflows/codeql.yml)
 # Insteon PLM <-> MQTT bridge
 
 This is a Python 3 package that communicates with an Insteon PLM modem
