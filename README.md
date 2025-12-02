@@ -11,6 +11,9 @@ This package works well with HomeAssistant and can be easily [installed as an ad
 
 Version: 1.3.1  ([History](CHANGELOG.md))
 
+### Docker Image
+- docker.io/f1d094/insteon-mqtt
+
 ### Recent Breaking Changes
 
 - 1.3.0 - The config files moved locations, see [notes](CHANGELOG.md#130).
