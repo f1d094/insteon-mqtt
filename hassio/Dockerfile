@@ -4,7 +4,7 @@ FROM $BUILD_FROM
 ENV LANG C.UTF-8
 RUN apk --no-cache add python3-dev
 
-COPY . /opt/insteon-mqtt
+COPY .. /opt/insteon-mqtt
 
 RUN apk add --no-cache py3-pip && \
     pip3 install --break-system-packages /opt/insteon-mqtt && \
