@@ -1,4 +1,4 @@
-FROM python:3.10.13-trixie
+FROM python:3.13-trixie
 
 VOLUME /config
 
